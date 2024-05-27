@@ -14,9 +14,9 @@ namespace FirstProblem1
         private static readonly int[] NumberDayOfYear366 = { 0, 30, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 
 
-        private int day;
-        private int month;
-        private int year;
+        private readonly int day;
+        private readonly int month;
+        private readonly int year;
 
 
         public Date(int day, int month, int year)
@@ -32,26 +32,8 @@ namespace FirstProblem1
                     this.day = day;
                     this.month = month;
                     this.year = year;
-
-                }
-                else
-                {
-                    Console.WriteLine("day is not in the range :-(");
-                    this.day = 01;
-                    this.month = 01;
-                    this.year = 0001;
-
                 }
             }
-            else
-            {
-                Console.WriteLine("year or month is not in the range :-(");
-                this.day = 01;
-                this.month = 01;
-                this.year = 0001;
-
-            }
-
         }
 
         public void Printdate()
