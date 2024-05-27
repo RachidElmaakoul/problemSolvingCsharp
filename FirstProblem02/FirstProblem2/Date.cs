@@ -25,7 +25,7 @@ namespace FirstProblem1
 
             if (year >= 1 && year <= 9999 && month <= 12 && month >= 1)
             {
-                int[] Days = isLeap ? NumberDayOfYear365 : NumberDayOfYear366;
+                int[] Days = isLeap ? NumberDayOfYear366 : NumberDayOfYear365;
 
                 if (day >= 1 && day <= Days[month])
                 {
