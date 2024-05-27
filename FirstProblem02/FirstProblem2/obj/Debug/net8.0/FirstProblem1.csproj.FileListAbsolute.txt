@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\bin\Debug\net8.0\FirstProblem1.exe
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\bin\Debug\net8.0\FirstProblem1.deps.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\bin\Debug\net8.0\FirstProblem1.runtimeconfig.json
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\bin\Debug\net8.0\FirstProblem1.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\bin\Debug\net8.0\FirstProblem1.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.AssemblyInfo.cs
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\refint\FirstProblem1.dll
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.pdb
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\FirstProblem1.genruntimeconfig.cache
+C:\Users\Hp\Desktop\fullstack Devloper\csharp\FirstProblem\FirstProblem1\obj\Debug\net8.0\ref\FirstProblem1.dll
