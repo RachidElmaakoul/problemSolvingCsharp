@@ -35,7 +35,14 @@ namespace FirstProblem1
                 }
             }
         }
-
+  public Date( int year) : this (01,01,year)
+  {
+      
+  }
+         public Date( int month, int year) : this (01,month,year)
+  {
+      
+  }
         public void Printdate()
         {
             Console.WriteLine($"{day.ToString().PadLeft(2, '0')}/{month.ToString().PadLeft(2, '0')}/{year.ToString().PadLeft(4, '0')}");
